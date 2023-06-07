@@ -1,0 +1,188 @@
+.navbar{
+    display: flex;
+    margin: 1px 95px;
+    padding: 10px;
+    list-style: none;
+}
+.header{
+    display: flex;
+    width: auto;
+    height: 50px;
+    background-color: black;
+}
+.heading{
+    color: white;
+    margin: 10px 20px;
+}
+.navbar li{
+    margin: 1px 50px;
+    margin-right: 50px;
+    
+
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+.search{
+    margin-left: 290px;
+}
+
+
+.city{
+    background-image: url(bareilly_.jpg);
+    width: auto;
+    height: 390px;
+}
+.city h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.heading1{
+    display: flex;
+}
+.para1{
+    width: 340px;
+    height: 230px;
+    background-color:rgb(213, 232, 232);
+    padding: 3px;
+    margin: 10px 40px;
+}
+.para2{
+    width: 340px;
+    height: 230px;
+    background-color: rgb(213, 232, 232);
+    padding: 3px;
+    margin: 10px 150px;
+    font-style: bold;
+    color: black;
+}
+.para3{
+    width: 340px;
+    height: 230px;
+    background-color: rgb(213, 232, 232);
+    padding: 3px;
+    margin: 10px 15px;
+    font-style: bold;
+    color: black;
+}
+
+
+
+.famous h3{
+    margin: 1px 650px;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px;
+}
+.famous1{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    width: 330px;
+    height: 320px;
+    padding: 20px;
+}
+.link{
+    margin: 40px;
+    text-decoration: none;
+
+}
+.famous2{
+    margin: 20px 50px;
+}
+.famous3{
+    margin: 20px 50px;
+}
+.famous4{
+    margin: 20px 50px;
+}
+
+
+
+.form{
+    width: auto;
+    height: 800px;
+    background-image: url(hotel-sign-stars-3d-illustration-260nw-195879770.webp);
+    padding: 20px;
+}
+.form h3{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.formheading{
+    color: dark black;
+    font-size: 22px;
+}
+.form1{
+    width: 400px;
+    height: 600px;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 30px;
+}
+.form2{
+    margin: 20px 30px;
+    
+    
+}
+.form3{
+    margin: 20px 30px;
+}
+
+.form4{
+    margin: 20px 30px;
+}
+.form5{
+    margin: 20px 30px;
+}
+.form6{
+    margin: 20px 30px;
+}
+.form7{
+    margin: 20px 30px;
+}
+.form8{
+    margin: 20px 30px;
+
+}
+.submit{
+    margin: 20px 90px;
+}
+.form5 h3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: dark black;
+    font-size: 23px;
+}
+
+
+
+.allgallery h2{
+    text-align: center;
+}
+.galleryheading{
+    font-size: 26px;
+    font-weight: bold;
+    color: dark black;
+}
+.gallery{
+    display: flex;
+    margin: 10px 125px;
+}
+.img99{
+    width: 350px;
+    height: 300px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.img98{
+    width: 330px;
+    height: 400px;
+    padding: 10px;
+    margin: 30px 50px;
+    border-radius: 20px;
+}
